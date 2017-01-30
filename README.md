@@ -2,4 +2,4 @@
 
 
 Сохраните файл svkill.js из репозитория. Загрузите его к себе на хостинг и добавьте строчку вызова JS скрипта на всех страницах сайта. 
-<script src="url-to-your-svkill.js-file"></script>
+`<script src="url-to-your-svkill.js-file"></script>`
